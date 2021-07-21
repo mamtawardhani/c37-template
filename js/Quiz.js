@@ -29,11 +29,8 @@ class Quiz {
   }
 
   play(){
-
-    // question.invisible(); 
-    // question.show(); 
-    // question.visible(); 
-    //question.hide(); 
+    
+    question.hide(); 
 
     background("Yellow");
     fill(0);
